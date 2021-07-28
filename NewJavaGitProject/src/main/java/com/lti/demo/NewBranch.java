@@ -4,6 +4,6 @@ public class NewBranch {
 
 	void show()
 	{
-		System.out.println("Helloo, Welcome Here");
+		System.out.println("Welcome Here");
 	}
 }
